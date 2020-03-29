@@ -1,0 +1,19 @@
+body  {background-color: #335493;
+background-image: url(Pattern.svg);
+background-attachment: fixed;
+background-size: cover;}
+nav {
+    display: flex;
+    width: 50%;
+    margin: auto;
+    justify-content: center;
+}
+nav * {
+    color: white;
+    padding: 10px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
